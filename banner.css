@@ -1,0 +1,10 @@
+.banner{
+    background: var( --cor-de-fundo-banner);
+    color:var(--cor-da-fonte);
+    text-align: center;
+    padding: 2.5em 2em;
+
+}
+.banner-img{
+    width: 1010px;
+}
