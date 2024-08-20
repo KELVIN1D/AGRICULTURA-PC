@@ -4,3 +4,9 @@ background-image: url("download.jpeg");
 
 }
 
+@media screen and(min-width>:1024px){
+     .container_titulo{
+
+    display: block;
+}
+}
