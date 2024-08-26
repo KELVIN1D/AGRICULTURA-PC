@@ -1,12 +1,20 @@
-.cabecalho{
-background-image: url("download.jpeg");
+    .cabecalho{
+       background-image: url("download.jpeg");
 
 
 }
 
-@media screen and(min-width>:1024px){
-     .container_titulo{
+@media screen and(min-width: 1024px){
+    .container_titulo{
 
-    display: block;
+       display: block;
+       font-size: 30px;
+       font-weight: 700;
 }
+    .opcoes{
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+    }
+
 }
