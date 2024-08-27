@@ -9,8 +9,10 @@
     width: 1010px;
 }
 
+@media (min-width:1024px){
 .banner1-img{
     width: 500px;
  
+}
 
 }
