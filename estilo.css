@@ -61,3 +61,11 @@ color: #ffffff;
     width: 1900px;
     height: 500px;
 }
+
+@media (min-width:1024px){
+  .banner1-img{
+      width: 500px;
+   
+  }
+  
+  }
